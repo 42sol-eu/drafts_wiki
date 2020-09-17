@@ -1,2 +1,4 @@
 name: Drafts Community Wiki
-markdown: kramdown
+markdown: terminal
+permalink: /blog/:year/:month/:day/:title
+
